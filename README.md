@@ -1,3 +1,2 @@
 # HandWriting-Recognition
-# HandWriting-Recognition
-# HandWriting-Recognition
+本项目使用cnn和非cnn的方式实现手写数字识别
